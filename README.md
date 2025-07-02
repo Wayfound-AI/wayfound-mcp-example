@@ -105,4 +105,3 @@ logging.basicConfig(level=logging.DEBUG)
 
 - [OpenAI Agents SDK Documentation](https://openai.github.io/openai-agents-python/)
 - [Model Context Protocol Specification](https://modelcontextprotocol.io/)
-- [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)
