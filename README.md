@@ -117,7 +117,7 @@ Create a `.env` file in the project root with the following configuration:
 
 ```env
 # Wayfound MCP Server Configuration
-WAYFOUND_MCP_API_KEY=your_api_key_here
+WAYFOUND_MCP_API_KEY=your_mcp_api_key_here
 
 # OpenAI Configuration (required for the Agents SDK)
 OPENAI_API_KEY=your_openai_api_key_here
