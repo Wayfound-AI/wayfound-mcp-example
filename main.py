@@ -48,7 +48,7 @@ async def main():
     async with MCPServerSse(
         name="Wayfound MCP Server",
         params={
-            "url": "http://localhost:3000/sse",
+            "url": WAYFOUND_MCP_SERVER_URL,
             "headers": {
                 "Authorization": f"Bearer {WAYFOUND_MCP_API_KEY}"
             }
